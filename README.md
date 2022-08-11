@@ -7,7 +7,7 @@ This repository contain the steps and outputs from our node creation and develop
 
 First of all, we created a wallet.The account was named as fluxus.shardnet.near and the dependencies like near-cli, python and rust were installed.
 
-## WALLET IMAGE -----
+![alt text](/wallet.png)
 
 In sequence, we focused on deploying a node. So, the nearcore project was cloned and compile using cargo build. We also generate some files in our directory as config.json and node_key.json. After that, we setup the aws and started running the node.
 
